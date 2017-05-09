@@ -2122,17 +2122,20 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
-  border-color: #4cae4c;
+  background-color: #E5CF07;
+  border-color: #fff;
 }
+
 .btn-success:hover,
 .btn-success:focus,
 .btn-success:active,
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
   color: #fff;
-  background-color: #47a447;
-  border-color: #398439;
+  background-color: #FFEE15;
+  border-color: #fff;
+
+
 }
 .btn-success:active,
 .btn-success.active,
